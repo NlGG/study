@@ -5,9 +5,9 @@
 [ノンパラメトリックベイズ手法のクラスタリングへの応用]
 
 ##勉強会  
-[空間統計・空間計量勉強会](https://github.com/NlGG/SpatialStatistics/tree/master/subzemi)
-[計量時系列勉強会](https://github.com/NlGG/Econometrics/tree/master/subsemi)
-[経済学勉強会](https://github.com/NlGG/Economics/blob/master/subsemi/README.md)
+[空間統計・空間計量勉強会](https://github.com/NlGG/SpatialStatistics/tree/master/subzemi)  
+[計量時系列勉強会](https://github.com/NlGG/Econometrics/tree/master/subsemi)  
+[経済学勉強会](https://github.com/NlGG/Economics/blob/master/subsemi/README.md)  
 
 
 ####　調べてみたいことのメモ（漠然と）  
